@@ -24,7 +24,7 @@ The dataset contains information about customers' demographics and purchasing be
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 
 ### 1. Data Understanding
